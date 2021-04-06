@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GSB Notes de Frais</string>
+    <string-array name="typeforfait">
+        <item></item>
+        <item>Forfait km</item>
+        <item>forfait etape</item>
+        <item>Nuite hotel</item>
+        <item>Repas Restaurant</item>
+    </string-array>
+
+</resources>
